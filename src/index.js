@@ -8,7 +8,7 @@ import {
   PagerAndroid,
   PagerExperimental,
   SceneMap,
-} from 'react-native-tab-view';
+} from '../lib';
 
 import TabViewVertical from './TabViewVertical';
 import TabBarVertical from './TabBarVertical';
