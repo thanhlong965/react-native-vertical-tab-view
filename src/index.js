@@ -8,7 +8,7 @@ import {
   PagerAndroid,
   PagerExperimental,
   SceneMap,
-} from '../lib';
+} from './lib';
 
 import TabViewVertical from './TabViewVertical';
 import TabBarVertical from './TabBarVertical';
