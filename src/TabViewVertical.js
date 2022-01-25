@@ -3,7 +3,7 @@
 import * as React from 'react';
 import { Animated, View, StyleSheet } from 'react-native';
 import TabBarVertical from './TabBarVertical';
-import { PagerDefault } from 'react-native-tab-view';
+import { PagerDefault } from './lib';
 
 import type {
   Scene,
